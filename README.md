@@ -5,6 +5,7 @@ This mod adds different 'consumable chemicals', inspired by [Create: Broken Bad]
 Credits: 
 ==========
 [NeoForge MDK 1.21.1](https://github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle): 
+
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
 
