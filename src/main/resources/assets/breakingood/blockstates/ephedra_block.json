@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "breakingood:block/ephedra_block_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "breakingood:block/ephedra_block"
+    },
+    "axis=z": {
+      "model": "breakingood:block/ephedra_block_horizontal",
+      "x": 90
+    }
+  }
+}

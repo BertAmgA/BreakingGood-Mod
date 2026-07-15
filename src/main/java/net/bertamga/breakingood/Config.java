@@ -1,4 +1,4 @@
-package net.bertamga.testmod;
+package net.bertamga.breakingood;
 
 import java.util.List;
 
