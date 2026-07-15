@@ -1,6 +1,7 @@
 Decription: 
 ==========
-...
+This mod adds different 'consumable chemicals', inspired by [Create: Broken Bad](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad) and [Psychedelicraft](https://github.com/Sollace/Psychedelicraft) Mods.
+
 Credits: 
 ==========
 NeoForge MDK 1.21.1: https://github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle
