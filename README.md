@@ -4,6 +4,6 @@ This mod adds different 'consumable chemicals', inspired by [Create: Broken Bad]
 
 Credits: 
 ==========
-Made with [Pz27](https://www.tiktok.com/@pz27bell) for 'stuff' to add.
+Made with [Pz27](https://www.tiktok.com/@pz27bell).
 
 Special Thanks to [Modding by Kaupenjoe](https://www.youtube.com/@ModdingByKaupenjoe) for Basic Java knowlage and Modding Tutorials. 
